@@ -8,7 +8,7 @@ The idea behind this project is to give the car buyers an estimation of greenhou
 
 ## Methodology:
 
-First, I downloaded a car database of 43000 cars (electric and combustion) from Fuel economy (www.fueleconomy.gov).
+First, I downloaded a car database of 43000 cars (electric and combustion) from [Fuel economy] (www.fueleconomy.gov).
  
 Using the API of the World Bank, I downloaded the electricity source breakdown of every country in the world. 
 
